@@ -1,1 +1,1 @@
-# auto-resolver-excel
+# auto-resolver-excel-jar
