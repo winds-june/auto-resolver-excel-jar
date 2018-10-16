@@ -1,1 +1,1 @@
-# aoto-resolver-excel
+# auto-resolver-excel
